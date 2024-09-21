@@ -1,9 +1,9 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### AIM: 
+To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
 ### Description: 
-<div align = "justify">
-
+Sentiment analysis is the process of using computational techniques to determine the sentiment expressed in text data, such as positive, negative, or neutral. It helps businesses understand customer opinions and make data-driven decisions based on public sentiment.
 ### Procedure:
 1) ***Import Excel data***
     <p>a. Drag the "Read Excel" operator from the IO folder onto the process canvas.
@@ -26,5 +26,11 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/d592a714-b8af-476f-9556-1a83eb876f8d)
+
+![image](https://github.com/user-attachments/assets/eddc7e14-ddac-4e4b-989c-dfe00dd62bb6)
+
 
 ### Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
+
